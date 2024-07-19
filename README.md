@@ -1,5 +1,2 @@
-# custom_icons
-# custom_icons
-# custom_icons
-# custom_icons
-# custom_icons
+icon edits to make them prettier
+pink!
